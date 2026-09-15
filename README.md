@@ -2,9 +2,12 @@
 
 A full-stack web application for managing MacBook sales, client queries, invoices, and profit distribution built with React and Firebase.
 
+🌐 **Live Application**: [https://ar-macbook.web.app](https://ar-macbook.web.app)
+
 ![React](https://img.shields.io/badge/React-19.2-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-12.8-orange)
 ![Vite](https://img.shields.io/badge/Vite-7.2-purple)
+![Live Demo](https://img.shields.io/badge/Live--Demo-ar--macbook.web.app-brightgreen)
 
 ## ✨ Features
 
@@ -176,6 +179,8 @@ macbook-sales-system/
 ```
 
 ## 🚀 Deployment
+
+**Live Production URL**: [https://ar-macbook.web.app/login](https://ar-macbook.web.app/login)
 
 ### Build for Production
 ```bash

@@ -195,17 +195,18 @@ npm run build
 firebase deploy
 ```
 
-## 📊 Business Logic
+## 📊 Business Logic & Profit Sharing
 
-### Share Distribution
-- **Sehar**: 30%
-- **Nouman**: 20%
-- **Hammad**: 50%
+### Partner Profit Distribution
+The system automatically calculates monthly partner share splits based on configurable percentage allocations:
+- **Partner A**: 50%
+- **Partner B**: 30%
+- **Partner C**: 20%
 
 ### Income Calculation
-- Fixed income per laptop: **PKR 5,500**
-- Monthly income = Number of sales × PKR 5,500
-- Each partner's share = Monthly income × Their percentage
+- **Fixed Commission**: Standard commission amount per laptop sold (e.g., PKR 5,500)
+- **Monthly Revenue**: `Number of Sales × Fixed Commission`
+- **Partner Payout**: `Monthly Revenue × Partner Percentage`
 
 ## 🔒 Security
 

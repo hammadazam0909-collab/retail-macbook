@@ -79,17 +79,9 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## 🔐 Default Accounts
+## 🔐 User Authentication
 
-### Admin
-- **Email**: `admin@macbook.com`
-- **Password**: `admin123`
-
-### Clients
-- **Naveed**: `Naveed@noreply.com` / `Naveed123`
-- **Luqman**: `Luqman@noreply.com` / `Luqman123`
-- **Ali**: `Ali@noreply.com` / `Ali123`
-- **RedApple**: `RedApple@noreply.com` / `RedApple123`
+Sign in using your authorized Firebase Authentication credentials (Admin or Client role). User accounts are created and managed via the Admin Dashboard or Firebase Console.
 
 ## 📁 Project Structure
 
